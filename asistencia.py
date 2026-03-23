@@ -4,7 +4,7 @@
 # 2. Agrega tu línea de print AL FINAL del archivo.
 # 3. Respeta los prints de los demás, ¡no los borres!
 
-print("--- LISTA DE ASISTENCIA OFICIAL ---")
+print("LISTA DE ASISTENCIA OFICIAL")
 print("Estado del repositorio: Conectado y Sincronizado")
 
 # INICIO
