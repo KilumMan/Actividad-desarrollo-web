@@ -8,4 +8,6 @@ print("LISTA DE ASISTENCIA OFICIAL")
 print("Estado del repositorio: Conectado y Sincronizado")
 print("Test L. Garcia 2026")
 # INICIO
+print("hola")
+print("equipo 4")
 print("Equipo 6")
